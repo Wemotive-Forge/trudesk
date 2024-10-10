@@ -6659,6 +6659,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"cookie@npm:0.7.0":
+  version: 0.7.0
+  resolution: "cookie@npm:0.7.0"
+  checksum: c57551593f20212aaf8128433ace5bab788072100c0f3dec284392fec6ad013fb69f8ff1344b20a778df049d538c1951a892e8cb5632bbeeec24b59b7e59f94c
+  languageName: node
+  linkType: hard
+
 "cookiejar@npm:^2.1.3":
   version: 2.1.3
   resolution: "cookiejar@npm:2.1.3"
@@ -21953,7 +21960,7 @@ __metadata:
     compression-webpack-plugin: 10.0.0
     connect-flash: 0.1.1
     connect-mongo: 4.6.0
-    cookie: 0.5.0
+    cookie: 0.7.0
     cookie-parser: 1.4.6
     cookie-signature: 1.2.0
     cross-env: 7.0.3
